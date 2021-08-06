@@ -1,5 +1,5 @@
 ### Hi there I'm Junaid Shah👋
-[![Twitter Follow]<a href="https://twitter.com/__junaidshah?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @__junaidshah</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[![Twitter Follow]("https://twitter.com/__junaidshah?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false")
 
 ### I'm a Front end developer 
 
