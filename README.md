@@ -1,5 +1,5 @@
 ### Hi there I'm Junaid Shah👋
-[![Twitter Follow]("https://twitter.com/__junaidshah?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false")
+<a href="https://twitter.com/__junaidshah?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @__junaidshah</a>
 
 ### I'm a Front end developer 
 
@@ -14,7 +14,7 @@
 
 
 
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="background:white"/>][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
  <br /> 
@@ -43,8 +43,8 @@
 - [Creating a CRUD App using Flask , Postgres , FlaskSQLAlchemy](https://medium.com/@junaidshahdaily/create-a-crud-app-using-flask-and-sqlalchemy-23b1a14945f9)
 <!-- BLOG-POST-LIST:END -->
 
-<i>Feel Free to reach out to me over social media mostly twitter
-</i>
+<i><b>Feel Free to reach out to me over social media mostly twitter
+ </b></i>
 
 [twitter]: https://twitter.com/__junaidshah
 [linkedin]: https://www.linkedin.com/in/junaid-shah-ba2910a9/
