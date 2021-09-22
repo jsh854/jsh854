@@ -1,7 +1,7 @@
 ### Hi there I'm Junaid Shah👋
 <a href="https://twitter.com/__junaidshah?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @__junaidshah</a>
 
-### I'm a Front end developer 
+### I'm a developer 
 
 - 🔭 I’m currently working on React , Typescript , Next Js projects
 - 🌱 I’m currently learning Flask and  Postgres
