@@ -50,5 +50,5 @@
 [linkedin]: https://www.linkedin.com/in/junaid-shah-ba2910a9/
 
 
-[visitors](https://visitor-badge.glitch.me/badge?page_id=jsh854)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jsh854)
 
