@@ -8,14 +8,7 @@
 - 👯 I’m looking to collaborate on any React or Fullstack project
 - 💬 Ask me about how to solve any Front End issues 
 - ⚡ Fun fact: I Love to Read Poetry and watch X Men🚶‍♂️🚶‍♂️
-- 📫 How to reach me:
 
-
-
-
-
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="background:white"/>][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
  <br /> 
 
@@ -27,7 +20,6 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -70,6 +62,12 @@
 
 [twitter]: https://twitter.com/__junaidshah
 [linkedin]: https://www.linkedin.com/in/junaid-shah-ba2910a9/
+
+#### Here's How to Support Me:
+* Support all my OSS work by [buying me a coffee ☕](https://www.buymeacoffee.com/jshahcodes).
+ 
+<a href="https://www.buymeacoffee.com/jshahcodes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 150px !important;" ></a>
+
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jsh854)
