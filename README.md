@@ -1,3 +1,6 @@
+
+![Header](https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif)
+
 ### Hi there I'm Junaid Shah👋
 <a href="https://twitter.com/__junaidshah?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @__junaidshah</a>
 
