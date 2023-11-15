@@ -52,7 +52,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Interview Questions for JS]([https://medium.com/@junaidshahdaily/sql-joins-you-should-know-6ac056ad539c](https://dev.to/__junaidshah/interview-questions-for-js-4a4m))
+- [Interview Questions for JS](https://dev.to/__junaidshah/interview-questions-for-js-4a4m)
 - [Creating a CRUD App using Flask , Postgres , FlaskSQLAlchemy](https://medium.com/@junaidshahdaily/create-a-crud-app-using-flask-and-sqlalchemy-23b1a14945f9)
 <!-- BLOG-POST-LIST:END -->
 
