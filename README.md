@@ -6,8 +6,8 @@
 
 ### I'm a developer 
 
-- 🔭 I’m currently working on React , Typescript , Next Js, projects
-- 🌱 I’m currently learning Vue JS
+- 🔭 I’m currently working on React , Typescript , projects
+- 🌱 I’m currently working with React - Vue JS ( both 2 and 3) -scss - antd stack for frontend
 - 👯 I’m looking to collaborate on any React or Fullstack project
 - 💬 Ask me about how to solve any Front End issues 
 - ⚡ Fun fact: I Love to Read Poetry and watch X Men🚶‍♂️🚶‍♂️
